@@ -1,0 +1,7 @@
+fastapi
+pydantic
+httpx[http2]
+uvicorn
+uuid
+python-dotenv
+fake-useragent
